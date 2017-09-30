@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e51e740-b372-4000-aba1-ed1b2c835569" name="默认" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="3243">
+                  <caret line="128" column="16" lean-forward="false" selection-start-line="128" selection-start-column="9" selection-end-line="128" selection-end-column="16" />
+                  <folding>
+                    <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#0;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#1;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#2;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#3;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#4;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#6;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#7;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#8;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#9;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#10;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <element signature="n#li#11;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                    <marker date="1506739027120" expanded="false" signature="6043:6132" ph="..." />
+                    <marker date="1506739027120" expanded="false" signature="6158:6247" ph="..." />
+                    <marker date="1506739027120" expanded="false" signature="6273:6362" ph="..." />
+                    <marker date="1506739027120" expanded="false" signature="6388:6477" ph="..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../../插件/iscroll-master/demos/forms/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1196">
+                  <caret line="50" column="23" lean-forward="false" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.less" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/index.less">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="218">
+                  <caret line="208" column="17" lean-forward="true" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
+                  <folding>
+                    <element signature="e#5#37#0" expanded="false" />
+                    <element signature="e#46#84#0" expanded="false" />
+                    <element signature="e#94#244#0" expanded="false" />
+                    <element signature="e#255#1331#0" expanded="false" />
+                    <element signature="e#1347#1573#0" expanded="false" />
+                    <element signature="e#1587#1815#0" expanded="false" />
+                    <element signature="e#1823#2570#0" expanded="false" />
+                    <element signature="e#2578#3041#0" expanded="false" />
+                    <element signature="e#3052#3254#0" expanded="false" />
+                    <element signature="e#3576#3990#0" expanded="false" />
+                    <element signature="e#3774#3891#0" expanded="false" />
+                    <element signature="e#3898#3988#0" expanded="false" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="276">
+                  <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mask.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/mask.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="299">
+                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>wrapper</find>
+      <find>news-inf</find>
+      <find>info</find>
+      <find>overlay</find>
+      <find>active</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/git-ng/zhuanpan/index.html" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/../../插件/iscroll-master/demos/forms/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/mask.js" />
+        <option value="$PROJECT_DIR$/css/index.less" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="43" />
+    <option name="y" value="88" />
+    <option name="width" value="1259" />
+    <option name="height" value="1078" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhuanpan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhuanpan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhuanpan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhuanpan" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhuanpan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhuanpan" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="index.less" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="zhuanpan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhuanpan" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhuanpan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhuanpan" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github-yangyu\zq\zhuanpan\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e51e740-b372-4000-aba1-ed1b2c835569" name="默认" comment="" />
+      <created>1506679672170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506679672170</updated>
+      <workItem from="1506679674172" duration="6319000" />
+      <workItem from="1506734941736" duration="5796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12115000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="43" y="88" width="1259" height="1078" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24979524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2829">
+          <caret line="135" column="21" lean-forward="true" selection-start-line="135" selection-start-column="21" selection-end-line="135" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#8;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#9;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#10;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#11;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1506739027120" expanded="false" signature="6043:6132" ph="..." />
+            <marker date="1506739027120" expanded="false" signature="6158:6247" ph="..." />
+            <marker date="1506739027120" expanded="false" signature="6273:6362" ph="..." />
+            <marker date="1506739027120" expanded="false" signature="6388:6477" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#5#37#0" expanded="false" />
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#94#244#0" expanded="false" />
+            <element signature="e#255#1331#0" expanded="false" />
+            <element signature="e#1347#1573#0" expanded="false" />
+            <element signature="e#1587#1815#0" expanded="false" />
+            <element signature="e#1823#2570#0" expanded="false" />
+            <element signature="e#2578#3041#0" expanded="false" />
+            <element signature="e#3052#3254#0" expanded="false" />
+            <element signature="e#3576#3990#0" expanded="false" />
+            <element signature="e#3774#3891#0" expanded="false" />
+            <element signature="e#3898#3988#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/iscroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="197" column="24" lean-forward="true" selection-start-line="197" selection-start-column="24" selection-end-line="197" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/git-ng/zhuanpan/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="159" column="7" lean-forward="false" selection-start-line="159" selection-start-column="7" selection-end-line="159" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../插件/iscroll-master/demos/forms/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="50" column="23" lean-forward="false" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="128" column="16" lean-forward="false" selection-start-line="128" selection-start-column="9" selection-end-line="128" selection-end-column="16" />
+          <folding>
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#1;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#3;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#4;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#6;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#7;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#8;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#9;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#10;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#li#11;n#ul#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1506739027120" expanded="false" signature="6043:6132" ph="..." />
+            <marker date="1506739027120" expanded="false" signature="6158:6247" ph="..." />
+            <marker date="1506739027120" expanded="false" signature="6273:6362" ph="..." />
+            <marker date="1506739027120" expanded="false" signature="6388:6477" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/mask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="208" column="17" lean-forward="true" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
+          <folding>
+            <element signature="e#5#37#0" expanded="false" />
+            <element signature="e#46#84#0" expanded="false" />
+            <element signature="e#94#244#0" expanded="false" />
+            <element signature="e#255#1331#0" expanded="false" />
+            <element signature="e#1347#1573#0" expanded="false" />
+            <element signature="e#1587#1815#0" expanded="false" />
+            <element signature="e#1823#2570#0" expanded="false" />
+            <element signature="e#2578#3041#0" expanded="false" />
+            <element signature="e#3052#3254#0" expanded="false" />
+            <element signature="e#3576#3990#0" expanded="false" />
+            <element signature="e#3774#3891#0" expanded="false" />
+            <element signature="e#3898#3988#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
