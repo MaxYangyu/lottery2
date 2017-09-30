@@ -9,7 +9,7 @@ $('.fr>a').on('click',function () {
     $('.hj').css('display','block');
     $('.hj').css('position' ,'fixed').css('left',left + scrollLeft).css('top','35%');
     flag=1;
-    $('#wrapper').css('top','-12%')
+    $('#wrapper').css('position' ,'fixed').css('top','35%');
     $('body').css('overflow','hidden');
 
 });
