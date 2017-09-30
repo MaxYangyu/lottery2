@@ -31,6 +31,7 @@
 </header>
 <div class="bg-img">
     <img src="img/转盘@2x.png" class="img-responsive ">
+    <img src="img/微信图片_20170930130923.png" class="img-responsive img-two shan">
 </div>
 <!--抽检主体部分-->
 <div id="lottery">
@@ -126,6 +127,7 @@
 <div class="hj">
     <img src="img/组-48@2x.png" class="img-responsive close-btn">
 </div>
+
 <div id="wrapper">
     <div id="scroller">
         <ul>
@@ -181,28 +183,7 @@
     </div>
 
 </div>
-<!--    <div class="hj-info">
-        <div class="fl">8888逗米</div>
-        <div class="fr">10.1 10:23</div>
-    </div>
-    <div class="hj-info">
-        <div class="fl">8888逗米</div>
-        <div class="fr">10.1 10:23</div>
-    </div>
-    <div class="hj-info">
-        <div class="fl">8888逗米</div>
-        <div class="fr">10.1 10:23</div>
-    </div>
-    <div class="hj-info">
-        <div class="fl">8888逗米</div>
-        <div class="fr">10.1 10:23</div>
-    </div>
-    <div class="hj-info">
-        <div class="fl">8888逗米</div>
-        <div class="fr">10.1 10:23</div>
-    </div>-->
 
-<!--获奖信息-->
 <div class="info">
     <span>恭喜您获得<i>黄金VIP三天体验</i></span>
     <img src="img/确定@2x.png" class="img-responsive ok-btn">
@@ -232,10 +213,23 @@
                 up();
             });
         }
+        function showLogin()
+        {
+            $('.img-two').removeClass('shan')
+        }
+        function tj() {
+            $('.img-two').addClass('shan')
+        }
+        setInterval(showLogin,500);
+        setInterval(tj,1000);
 
         up();
     });
-
+ /*   function showLogin()
+    {
+       $('img-two').removeClass('shan')
+    }
+    setInterval("showLogin()","1000");*/
 
 
 

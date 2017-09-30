@@ -15,6 +15,13 @@ header .head-img {
   width: 6.65rem;
   height: 5.76rem;
 }
+.bg-img .img-two {
+  position: relative;
+  top: -5.775rem;
+}
+.bg-img .shan {
+  display: none;
+}
 #lottery {
   position: absolute;
   top: 4.6rem;
