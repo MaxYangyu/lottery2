@@ -205,8 +205,8 @@ header .head-img {
 .hj .close-btn {
   width: .4rem;
   position: absolute;
-  right: -4px;
-  top: -2px;
+  right: -1px;
+  top: -8px;
 }
 .info {
   position: absolute;
